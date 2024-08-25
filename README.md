@@ -1,4 +1,4 @@
-# NLayer Udemy App
+# NLayer App
 
 This project is built on a multi-layered architecture (NLayer Architecture) using .NET Core. The project primarily provides a product management system and handles database operations with Entity Framework Core.
 
